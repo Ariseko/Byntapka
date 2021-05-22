@@ -1,4 +1,3 @@
 # Byntapka
 
-Да, Аля \n
-Это твой сайт
+https://www.twitch.tv/byntapka 's official landing page
